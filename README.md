@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![schang1146's github stats](https://github-readme-stats.vercel.app/api?username=schang1146)](https://github.com/schang1146/github-readme-stats)
+[![schang1146's github stats](https://github-readme-stats.vercel.app/api?username=schang1146)](https://github.com/schang1146/)
 
 <!--
 **schang1146/schang1146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
