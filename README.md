@@ -1,6 +1,6 @@
-### Hi! I'm Sammy 👋
+# Hi! I'm Sammy 👋
 
-[![Gmail](sammychang2185@gmail.com]()
+[![Gmail](sammychang2185@gmail.com]()]
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 - 🔭 I’m currently working on a jeopardy game made with Vue.js!
