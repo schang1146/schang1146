@@ -20,44 +20,17 @@
 
 ### Languages
 
-<style>
-    td {
-        vertical-align: center;
-        text-align: center;
-    }
-</style>
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript logo"/>
-            </td>
-            <td width="25%" text-align="center">
-                test
-            </td>
-            <td width="25%" text-align="center">
-                test
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="25%" text-align="center">
-                test
-            </td>
-            <td width="25%" text-align="center">
-                test
-            </td>
-            <td width="25%" text-align="center">
-                test
-            </td>
-        </tr>
-    </tbody>
-</table>
+Javascript | Python | HTML5 | CSS3
+:---------:|:------:|:-----:|:----:
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript logo"/> |  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python logo"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5 logo"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo"/>
 
+<!-- icon list
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript logo"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python logo"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5 logo"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo"/>
-
+ -->
+ 
 ### Front-End Frameworks
 
 <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react logo"/>
