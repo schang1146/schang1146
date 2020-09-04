@@ -14,9 +14,15 @@
 </a>
 
 ---
+
 ## About
-Full-Stack Developer based in Los Angeles, California.  
-Currently a Team Lead for [Lambda School](https://lambdaschool.com/)
+
+I'm a Full-Stack Developer based in Los Angeles, California.  
+Currently, I work as a Team Lead for [Lambda School](https://lambdaschool.com/)
+
+In my free time I love to listen to books on Audible, play tennis, and game on the PC.
+
+Feel free to connect with me through any of the badges above! :)
 
 ## Tech Stack
 
