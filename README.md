@@ -41,15 +41,18 @@ Javascript | Python | HTML5 | CSS3
 
 ### Front-End Frameworks
 
-React.js | Vue.js | SASS | Less
-:-------:|:------:|:----:|:----:
-[![react logo](https://img.icons8.com/plasticine/48/000000/react.png)](https://reactjs.org/) | [![vue logo](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/) | [![sass logo](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/) | [<img width="48" src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/less.svg" alt="less logo"/>](http://lesscss.org/)
+React.js | React Redux | Vue.js | Boostrap | SASS | Less | Pusher
+:-------:|:-----------:|:------:|:--------:|:----:|:----:|:------:
+[![react logo](https://img.icons8.com/plasticine/48/000000/react.png)](https://reactjs.org/) | [![redux logo](https://img.icons8.com/color/48/000000/redux.png)](https://react-redux.js.org/) | [![vue logo](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/) | [![boostrap logo](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/) | [![sass logo](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/) | [<img width="48" src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/less.svg" alt="less logo"/>](http://lesscss.org/) | [<img width="48" src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/pusher.png" alt="pusher logo"/>](https://pusher.com/)
 
 <!-- icon list
 <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react logo"/> | https://reactjs.org/
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux logo"/> | https://react-redux.js.org/
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vuejs logo"/> | https://vuejs.org/
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap logo"/> | https://getbootstrap.com/
 <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass logo"/> | https://sass-lang.com/
-<img src="./less.svg" alt="less logo"/> | http://lesscss.org/
+<img width="48" src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/less.svg" alt="less logo"/> | http://lesscss.org/
+<img width="48" src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/pusher.png" alt="pusher logo"/> | https://pusher.com/
 -->
 
 ### Back-End Frameworks
@@ -60,7 +63,7 @@ Express | Django
 
 <!-- icon list
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs logo"/> | 
-<img src="./express.svg" alt="express logo"/> | https://expressjs.com/
+<img src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/express.svg" alt="express logo"/> | https://expressjs.com/
 <img src="https://img.icons8.com/color/48/000000/django.png" alt="django logo"/> | https://www.djangoproject.com/
 -->
 
