@@ -22,28 +22,49 @@
 
 Javascript | Python | HTML5 | CSS3
 :---------:|:------:|:-----:|:----:
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript logo"/> |  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python logo"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5 logo"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript logo"/> | <img src="https://img.icons8.com/color/48/000000/python.png" alt="python logo"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5 logo"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo"/>
 
 <!-- icon list
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript logo"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python logo"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5 logo"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo"/>
- -->
- 
+-->
+
 ### Front-End Frameworks
 
-<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react logo"/>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vuejs logo"/>
-<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass logo"/>
+React.js | Vue.js | SASS | Less
+:-------:|:------:|:----:|:----:
+[![react logo](https://img.icons8.com/plasticine/48/000000/react.png)](https://reactjs.org/) | [![vue logo](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/) | [![sass logo](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/) | [<img width="48" src="./less.svg" alt="less logo"/>](http://lesscss.org/)
+
+<!-- icon list
+<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react logo"/> | https://reactjs.org/
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vuejs logo"/> | https://vuejs.org/
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass logo"/> | https://sass-lang.com/
+<img src="./less.svg" alt="less logo"/> | http://lesscss.org/
+-->
 
 ### Back-End Frameworks
 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs logo"/>
+Express | Django
+:------:|:------:
+[<img src="./express.svg" alt="express logo"/>](https://expressjs.com/) | [![django logo](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
+
+<!-- icon list
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs logo"/> | 
+<img src="./express.svg" alt="express logo"/> | https://expressjs.com/
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="django logo"/> | https://www.djangoproject.com/
+-->
 
 ### Other Tools
 
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode logo"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git logo"/>
+VS Code | Git
+:------:|:---:
+[![vscode logo](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/) | [![git logo](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+
+<!-- icon list
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode logo"/> | https://code.visualstudio.com/
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="git logo"/> | https://git-scm.com/
+-->
 
 [![schang1146's github stats](https://github-readme-stats.vercel.app/api?username=schang1146)](https://github.com/schang1146/)
