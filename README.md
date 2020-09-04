@@ -13,35 +13,31 @@
     <img src="https://img.shields.io/badge/leetcode-F89F1B?&style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode"/>
 </a>
 
-## 🔭 I’m currently working on a jeopardy game made with Vue.js!
+<p>Full-Stack Developer based in Los Angeles, California.</p>
+<p>Currently a Team Lead for <a href="https://lambdaschool.com/">Lambda School</a>
 
-## 🌱 I’m currently learning ...
+## Tech Stack
 
-## 👯 I’m looking to collaborate on ...
+### Languages
 
-## 🤔 I’m looking for help with ...
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript logo"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="python logo"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5 logo"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo"/>
 
-## 💬 Ask me about ...
+### Front-End Frameworks
 
-## 📫 Reach me:
+<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react logo"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vuejs logo"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass logo"/>
 
-## 😄 Pronouns: ...
+### Back-End Frameworks
 
-## ⚡ Fun fact: ...
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs logo"/>
+
+### Other Tools
+
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode logo"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="git logo"/>
 
 [![schang1146's github stats](https://github-readme-stats.vercel.app/api?username=schang1146)](https://github.com/schang1146/)
-
-<!--
-**schang1146/schang1146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
