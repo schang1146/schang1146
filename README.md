@@ -13,8 +13,10 @@
     <img src="https://img.shields.io/badge/leetcode-F89F1B?&style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode"/>
 </a>
 
-<p>Full-Stack Developer based in Los Angeles, California.</p>
-<p>Currently a Team Lead for <a href="https://lambdaschool.com/">Lambda School</a><p>
+---
+## About
+Full-Stack Developer based in Los Angeles, California.  
+Currently a Team Lead for [Lambda School](https://lambdaschool.com/)
 
 ## Tech Stack
 
