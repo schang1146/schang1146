@@ -35,7 +35,7 @@ Javascript | Python | HTML5 | CSS3
 
 React.js | Vue.js | SASS | Less
 :-------:|:------:|:----:|:----:
-[![react logo](https://img.icons8.com/plasticine/48/000000/react.png)](https://reactjs.org/) | [![vue logo](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/) | [![sass logo](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/) | [<img width="48" src="./less.svg" alt="less logo"/>](http://lesscss.org/)
+[![react logo](https://img.icons8.com/plasticine/48/000000/react.png)](https://reactjs.org/) | [![vue logo](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/) | [![sass logo](https://img.icons8.com/color/48/000000/sass.png)](https://sass-lang.com/) | [<img width="48" src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/less.svg" alt="less logo"/>](http://lesscss.org/)
 
 <!-- icon list
 <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react logo"/> | https://reactjs.org/
@@ -48,7 +48,7 @@ React.js | Vue.js | SASS | Less
 
 Express | Django
 :------:|:------:
-[<img src="./express.svg" alt="express logo"/>](https://expressjs.com/) | [![django logo](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
+[<img src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/express.svg" alt="express logo"/>](https://expressjs.com/) | [![django logo](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
 
 <!-- icon list
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs logo"/> | 
