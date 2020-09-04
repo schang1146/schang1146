@@ -14,7 +14,7 @@
 </a>
 
 <p>Full-Stack Developer based in Los Angeles, California.</p>
-<p>Currently a Team Lead for <a href="https://lambdaschool.com/">Lambda School</a>
+<p>Currently a Team Lead for <a href="https://lambdaschool.com/">Lambda School</a><p>
 
 ## Tech Stack
 
