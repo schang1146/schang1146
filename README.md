@@ -21,10 +21,10 @@
 ### Languages
 
 <style>
-td {
-    vertical-align: center;
-    text-align: center;
-}
+    td {
+        vertical-align: center;
+        text-align: center;
+    }
 </style>
 <table>
     <tbody>
