@@ -57,9 +57,9 @@ React.js | React Redux | Vue.js | Boostrap | SASS | Less | Pusher
 
 ### Back-End Frameworks
 
-Express | Django
-:------:|:------:
-[<img src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/express.svg" alt="express logo"/>](https://expressjs.com/) | [![django logo](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
+Express |
+:------:|
+[<img src="https://raw.githubusercontent.com/schang1146/schang1146/a9fd9f8780429e4dcd38244d8cfc8ca065a1eae5/express.svg" alt="express logo"/>](https://expressjs.com/) |
 
 <!-- icon list
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs logo"/> | 
