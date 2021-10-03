@@ -18,9 +18,9 @@
 ## About
 
 I'm a Full-Stack Developer based in Los Angeles, California.  
-Currently, I work as a Team Lead for [Lambda School](https://lambdaschool.com/)
+Currently, I work as a Software Engineer I for [Zotec Partners](https://zotecpartners.com/)
 
-In my free time I love to listen to books on Audible, play tennis, and game on the PC.
+In my free time I love to listen to books on Audible, play tennis, and games on the PC.
 
 Feel free to connect with me through any of the badges above! :)
 
