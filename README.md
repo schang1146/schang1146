@@ -18,7 +18,7 @@
 ## About
 
 I'm a Full-Stack Developer based in Los Angeles, California.  
-Currently, I work as a Software Engineer I for [Zotec Partners](https://zotecpartners.com/)
+Currently, I work as a Software Engineer II for [Zotec Partners](https://zotecpartners.com/)
 
 In my free time I love to listen to books on Audible, play tennis, and games on the PC.
 
