@@ -6,12 +6,6 @@
 <a href="https://www.linkedin.com/in/sammy-chang/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://www.hackerrank.com/sammychang2185?hr_r=1">
-    <img src="https://img.shields.io/badge/hackerrank-2EC866?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
-</a>
-<a href="https://leetcode.com/schang1146/">
-    <img src="https://img.shields.io/badge/leetcode-F89F1B?&style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode"/>
-</a>
 
 ---
 
